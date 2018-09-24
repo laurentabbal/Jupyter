@@ -1,1 +1,2 @@
 input("x")
+print "hello world"
